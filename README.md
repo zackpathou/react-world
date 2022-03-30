@@ -1,3 +1,11 @@
+## Screenshots
+
+<img
+		width="600"
+		alt="Capture 1"
+		src="https://github.com/zackpathou/netflix_bootstrap/blob/main/img_netflix.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
