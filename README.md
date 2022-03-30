@@ -3,7 +3,7 @@
 <img
 		width="600"
 		alt="Capture 1"
-		src="https://github.com/zackpathou/netflix_bootstrap/blob/main/img_netflix.png">
+		src="https://github.com/zackpathou/react-world/blob/main/public/img/Capture%20d%E2%80%99%C3%A9cran%202022-03-30%20%C3%A0%2015.47.29.png">
 
 
 # Getting Started with Create React App
